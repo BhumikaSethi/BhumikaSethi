@@ -5,7 +5,7 @@ I am a **Data Science Enthusiast** with over 10 years of experience in **audit a
 
 - 🌟 Featured Projects
 - 🛠️ Skills and Tools
-- 📫 [Connect with Me on LinkedIn](www.linkedin.com/in/bhumika-sethi-cpa-3207061b4)
+- 📫 [Connect with Me on LinkedIn](https://www.linkedin.com/in/bhumika-sethi-cpa-3207061b4/)
 
 ---
 
@@ -31,5 +31,5 @@ I am a **Data Science Enthusiast** with over 10 years of experience in **audit a
 ---
 
 ## 📫 Connect with Me
-- **LinkedIn:** [Bhumika Sethi]((www.linkedin.com/in/bhumika-sethi-cpa-3207061b4))
+- **LinkedIn:** [Bhumika Sethi](https://www.linkedin.com/in/bhumika-sethi-cpa-3207061b4/)
 - **GitHub:** [github.com/your-username](https://github.com/your-username)
